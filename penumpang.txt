@@ -1,0 +1,3 @@
+PNR102,Budi,Jakarta-Bali,2B
+PNR105,Andi,Surabaya-Banyuwangi,4A
+PNR101,Siti,Jakarta-Surabaya,1C

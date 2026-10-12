@@ -1,0 +1,6 @@
+101,Pesawat,Jakarta,Bali,08:00,1200000
+102,Pesawat,Jakarta,Bali,14:00,1500000
+103,Pesawat,Jakarta,Surabaya,10:00,800000
+104,Kereta,Jakarta,Surabaya,06:00,400000
+105,Kereta,Surabaya,Banyuwangi,13:00,200000
+106,Kapal,Banyuwangi,Bali,18:00,150000
